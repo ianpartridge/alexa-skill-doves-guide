@@ -16,6 +16,6 @@ var handlers = {
         this.emit(':tell', 'Hello World!');
     },
     'TowerIntent': function () {
-	this.emit(':tell', 'Hello Winchester!);
+	this.emit(':tell', 'Hello Winchester!');
     },
 };
