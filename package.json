@@ -1,0 +1,27 @@
+{
+  "name": "alexa-skill-doves-guide",
+  "version": "1.0.0",
+  "description": "Alexa skill for Dove's Guide for Church Bell Ringers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianpartridge/alexa-skill-doves-guide.git"
+  },
+  "keywords": [
+    "bell",
+    "bells",
+    "bellringing"
+  ],
+  "author": "Ian Partridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianpartridge/alexa-skill-doves-guide/issues"
+  },
+  "homepage": "https://github.com/ianpartridge/alexa-skill-doves-guide#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
+}
